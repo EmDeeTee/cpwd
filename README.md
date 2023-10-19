@@ -5,7 +5,7 @@ Password manager in C
 `cpwd store/get`
 
 # Disclaimer
-This is not meant to be a safe password manager for real-world use. It's just a project for fun developed for a YouTube series.
+This is not meant to be a safe password manager for real-world use (mostly cuz you can't use it KEKW). It's just a project for fun developed for a YouTube series.
 
 Hashing methods used are not cryptographically secure
 
